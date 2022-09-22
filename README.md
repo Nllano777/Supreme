@@ -39,7 +39,7 @@ https://github.com/Nllano777/Supreme
 
 ## Installation
 
-.
+The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module.
 
 ---
 
